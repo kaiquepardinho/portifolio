@@ -159,7 +159,7 @@ ul {
 }
 
 #drin-h1 {
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 #drin-btn{
@@ -309,12 +309,12 @@ ul {
     }
 
     #drin {
-        height: 200px;
+        height: 300px;
         width: 100%;
     }
     
     #drin-h1 {
-        padding-top: 40px;
+        padding-top: 60px;
     }
     
     #drin-btn{
