@@ -35,7 +35,7 @@ ul {
 }
 
 #conteiner01 {
-    background-image: url(img/ft1.jpg);
+    background-image: url(img/ft5.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -134,17 +134,17 @@ ul {
 }
 
 #img01 {
-    background-image: url(img/ft2.jpg);
+    background-image: url(img/ft6.jpg);
     background-position: center center;
 }
 
 #img02 {
-    background-image: url(img/ft3.jpg);
+    background-image: url(img/ft7.jpg);
     background-position: center center;
 }
 
 #a-img {
-    background-image: url(img/ft4.jpg);
+    background-image: url(img/ft8.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
