@@ -135,7 +135,7 @@ main {
     }
 
     #esp {
-
+        border-top: 2px solid var(--cor3);
     }
 
     main {
