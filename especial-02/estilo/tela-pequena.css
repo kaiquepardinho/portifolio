@@ -111,14 +111,14 @@
         background-color: var(--cor0);
         border-top: 2px solid var(--cor3);
         margin: auto;
-        height: 207px;
+        height: 212px;
         width: 100%;
     }
     
     aside.linkspg {
         display: inline-block;
-        height: 165px;
-        width: 165px;
+        height: 170px;
+        width: 170px;
         margin-left: 10px;
         margin-right: 10px;
         margin-bottom: 20px;
