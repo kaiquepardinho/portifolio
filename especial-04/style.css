@@ -285,7 +285,16 @@ a#pg6{
 
     #conteiner02 {
         height: 765px;
-    }  
+    }
+    
+    #piz {
+        height: 200px;
+        width: 100%;
+    }
+    
+    #piz-h1 {
+        padding-top: 45px;
+    }
 }
 
 @media (max-width:785px) {
