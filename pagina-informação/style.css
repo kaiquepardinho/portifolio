@@ -219,6 +219,12 @@ iframe {
     }
 }
 
+@media (max-width:400px) {
+    #sec2 {
+        margin-bottom: 4%
+    }
+}
+
 @media (max-width:785px) {
 
     header {
